@@ -1,0 +1,4 @@
+target 'YourAwesomeProject' do
+  # …
+  pod 'RNLocalize', :path => '../node_modules/react-native-localize'
+end

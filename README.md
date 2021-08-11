@@ -31,6 +31,8 @@ $ cd expo-contacts-Test
 $ npm install
 ```
 
+If you have trouble with `RNLocalize`, you may need to follow the [React Native Localize Manual Linking Tutorial](https://github.com/zoontek/react-native-localize#manual-linking)
+
 ## Running
 
 **Run on web:**
