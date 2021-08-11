@@ -1,7 +1,6 @@
 /**
  * Get the PKT price from a PKT price ticker
  */
-import 'dotenv/config'
 import { getCurrentLocale } from '../translations'
 import AppConstants from '../utils/AppConstants'
 import AdaptiveStorage from '../utils/AdaptiveStorage'
